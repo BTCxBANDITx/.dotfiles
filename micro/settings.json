@@ -1,0 +1,18 @@
+{
+    "autosu": true,
+    "colorscheme": "monokai-dark",
+    "cursorline": false,
+    "fakecursor": true,
+    "hltrailingws": true,
+    "matchbracestyle": "highlight",
+    "relativeruler": true,
+    "rmtrailingws": true,
+    "savecursor": true,
+    "saveundo": true,
+    "softwrap": true,
+    "tabmovement": true,
+    "tabsize": 2,
+    "tabstospaces": true,
+    "wordwrap": true,
+    "xterm": true
+}
